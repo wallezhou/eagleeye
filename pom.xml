@@ -57,5 +57,6 @@
     <modules>
     	<module>eagleeye-licensing-service</module>
     	<module>eagleeye-configurationserver</module>
+    	<module>eagleeye-eurekaserver</module>
     </modules>
 </project>
