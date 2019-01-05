@@ -18,7 +18,7 @@
 #      server:
 #        encrypt.enabled: false
 #        git:
-#          uri: https://github.com/carnellj/config-repo/
+#          uri: https://github.com/wallezhou/config-repo/
 #          searchPaths: licensingservice,organizationservice
 #          username: native-cloud-apps
 #          password: 0ffended
@@ -39,4 +39,4 @@ spring:
            native:
               searchLocations: classpath:config/licensingservice,
                                classpath:config/organizationservice
-##              #searchLocations: classpath:config/,classpath:config/licensingservice
+#              #searchLocations: classpath:config/,classpath:config/licensingservice
